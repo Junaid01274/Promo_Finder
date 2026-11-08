@@ -1,0 +1,17 @@
+# Kuku's input pack is confidential. Never commit the scripts, and keep the
+# run outputs (which quote them) out of any public repo: share them by link.
+I Married a Broken Soldier*/
+episode-*-Episode 1[0-9][0-9][0-9][0-9][0-9][0-9].txt
+outputs/
+
+.cache/
+__pycache__/
+*.pyc
+.claude/
+
+# API keys for the model pass
+.env
+
+# These quote the show, so they go in the Drive folder, not the public repo
+docs/solution.*
+eval/reference_promos.csv

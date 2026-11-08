@@ -1,0 +1,90 @@
+EPISODE NUMBER: Episode 2
+EPISODE LOGLINE: Mara signs the contract on the spot, and her new husband walks her past the family that just disowned her.
+CONTINUITY NOTES: Sample episode written for testing the promo finder. Not real show content.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: EXT. HOTEL TERRACE - NIGHT
+Scene start: 00:00.00
+Scene end: 01:05.00
+
+Actions and dialogue:
+
+**STRANGER (Calm):**
+Start: (00:00.50) | End: (00:03.00)
+"My name is Adrian Vale."
+
+**ACTION:**
+Start: (00:03.50) | End: (00:06.00)
+Daniel goes pale. Lila grabs his arm.
+
+**LILA (Panicked):**
+Start: (00:06.50) | End: (00:09.00)
+"Vale? As in the Vale family?"
+
+**ADRIAN (Cold):**
+Start: (00:09.50) | End: (00:12.00)
+"As in the man who bought your company this morning."
+
+**MARA (Defiant):**
+Start: (00:12.50) | End: (00:15.00)
+"Give me the pen."
+
+**ACTION:**
+Start: (00:15.50) | End: (00:19.00)
+Mara signs the contract against the stone railing with a steady hand.
+
+**DANIEL (Desperate):**
+Start: (00:19.50) | End: (00:22.50)
+"Mara, you can't marry a stranger to spite me!"
+
+**MARA (Cold, Cutting):**
+Start: (00:23.00) | End: (00:26.00)
+"I'm not doing it to spite you. I'm doing it to bury you."
+
+**ACTION:**
+Start: (00:26.50) | End: (00:30.00)
+Mara's father storms onto the terrace, red-faced.
+
+**FATHER (Furious, Shouting):**
+Start: (00:30.50) | End: (00:34.00)
+"If you walk out with him, you are no daughter of mine!"
+
+**MARA (Steady, Heartbroken):**
+Start: (00:34.50) | End: (00:37.50)
+"You stopped being my father when you signed those papers."
+
+**ADRIAN (Protective):**
+Start: (00:38.00) | End: (00:40.00)
+"Come, Mrs. Vale."
+
+**ACTION:**
+Start: (00:40.50) | End: (00:45.00)
+Adrian takes Mara's hand and leads her through the stunned crowd.
+
+**LILA (Seething):**
+Start: (00:45.50) | End: (00:48.00)
+"This isn't over."
+
+**ACTION:**
+Start: (00:48.50) | End: (00:53.00)
+In the car, Adrian hands Mara a second envelope.
+
+**ADRIAN (Grave):**
+Start: (00:53.50) | End: (00:57.00)
+"Before you read that, you should know why I chose you."
+
+**MARA (Wary):**
+Start: (00:57.50) | End: (00:59.50)
+"Why?"
+
+**ADRIAN (Low, Ominous):**
+Start: (01:00.00) | End: (01:03.00)
+"Because your mother didn't die in an accident."
+
+**SOUND FX:**
+Start: (01:03.00) | End: (01:05.00)
+A heavy bass hit and sudden silence.
+
+--- SCRIPT END ---

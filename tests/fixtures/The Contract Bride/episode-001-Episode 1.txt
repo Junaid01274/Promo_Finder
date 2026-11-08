@@ -1,0 +1,110 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: At her engagement party, Mara learns her fiance has been secretly courting her stepsister, and a quiet stranger in the crowd offers her a contract marriage.
+CONTINUITY NOTES: Sample episode written for testing the promo finder. Not real show content.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. HOTEL BALLROOM - NIGHT
+Scene start: 00:00.00
+Scene end: 01:12.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.00)
+Wide shot of a crowded ballroom as Mara enters in a silver dress, smiling.
+
+**ACTION:**
+Start: (00:01.00) | End: (00:04.00)
+Mara scans the room for her fiance, holding two glasses of champagne.
+
+**MARA (Warm, Hopeful):**
+Start: (00:04.50) | End: (00:06.50)
+"Has anyone seen Daniel?"
+
+**WAITER (Nervous):**
+Start: (00:07.00) | End: (00:09.00)
+"He went to the terrace, miss."
+
+**ACTION:**
+Start: (00:09.50) | End: (00:13.00)
+Mara pushes open the terrace door and freezes as she sees Daniel kissing her stepsister Lila.
+
+**SOUND FX:**
+Start: (00:10.00) | End: (00:11.50)
+Champagne glasses shatter on the stone floor.
+
+**MARA (Shocked, Breathless):**
+Start: (00:13.50) | End: (00:15.50)
+"Daniel? What is this?"
+
+**DANIEL (Cold, Dismissive):**
+Start: (00:16.00) | End: (00:19.00)
+"You were never going to find out like this."
+
+**LILA (Smug, Gloating):**
+Start: (00:19.50) | End: (00:23.00)
+"He chose me months ago, sister. You were just the last to know."
+
+**MARA (Furious, Accusing):**
+Start: (00:23.50) | End: (00:27.00)
+"You stood next to me at my own engagement and lied!"
+
+**DANIEL (Callous):**
+Start: (00:27.50) | End: (00:30.50)
+"The engagement is over. Your father already signed the papers."
+
+**MARA (Horrified):**
+Start: (00:31.00) | End: (00:33.00)
+"What papers?"
+
+**LILA (Mocking, Cruel):**
+Start: (00:33.50) | End: (00:37.50)
+"The ones that give me your company. And your house."
+
+**ACTION:**
+Start: (00:38.00) | End: (00:41.00)
+Mara slaps Lila across the face. The guests gasp and turn.
+
+**SOUND FX:**
+Start: (00:38.50) | End: (00:39.50)
+A sharp crack of the slap echoes across the terrace.
+
+**DANIEL (Threatening):**
+Start: (00:41.50) | End: (00:45.00)
+"Touch her again and I will have security drag you out."
+
+**ACTION:**
+Start: (00:45.50) | End: (00:49.00)
+A tall man in a dark suit steps out of the shadows behind Daniel.
+
+**STRANGER (Calm, Deadly):**
+Start: (00:49.50) | End: (00:52.00)
+"Nobody is dragging her anywhere."
+
+**DANIEL (Alarmed):**
+Start: (00:52.50) | End: (00:54.50)
+"Who the hell are you?"
+
+**STRANGER (Cold):**
+Start: (00:55.00) | End: (00:57.00)
+"Someone you owe money to."
+
+**ACTION:**
+Start: (00:57.50) | End: (01:01.00)
+The stranger turns to Mara and holds out a folded contract.
+
+**STRANGER (Quiet, Firm):**
+Start: (01:01.50) | End: (01:05.00)
+"Marry me for one year, and I give you back everything they took."
+
+**MARA (Stunned):**
+Start: (01:05.50) | End: (01:07.50)
+"Marry you? I don't even know your name."
+
+**SOUND FX:**
+Start: (01:08.00) | End: (01:12.00)
+Low ominous strings swell into a cliffhanger sting.
+
+--- SCRIPT END ---
